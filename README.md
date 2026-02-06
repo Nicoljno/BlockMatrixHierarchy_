@@ -1,2 +1,2 @@
-# BlockMomentMatrix
-Julia implementation of the block moment matrix semidefinite relaxation
+# BlockMatrixHierarchy
+Codes for the julia implementation of the Block-matrix semidefinite hierarchy

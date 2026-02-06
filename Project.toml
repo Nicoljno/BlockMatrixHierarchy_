@@ -1,0 +1,20 @@
+name = "BlockMatrixHierarchy"
+uuid = "f2eff74f-1e6c-4b3f-bfac-c6d953f9f14b"
+version = "0.1.0"
+authors = ["Nicola D'Alessandro <nicolaide@hotmail.it>"]
+
+[deps]
+IterTools = "c8e1da08-722c-5040-9ed9-7db0dc04731e"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+Ket = "412c778c-4733-41d8-b706-9e072557ba34"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+MosekTools = "1ec41992-ff65-5c91-ac43-2df89e9693a4"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+
+[compat]
+IterTools = "1.10.0"
+JuMP = "1.25.0"
+Ket = "0.7.0"
+LinearAlgebra = "1.11.0"
+MosekTools = "0.15.9"
+SparseArrays = "1.11.0"
